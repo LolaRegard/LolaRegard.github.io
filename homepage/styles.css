@@ -1,0 +1,35 @@
+#home
+{
+    background-image: url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fny0915-bococa-brooklyn-bridge-park.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.container
+{
+    width: 90%;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+}
+#lola
+{
+    font-family: verdana;
+    background-color: lightblue;
+    padding: 5px;
+}
+#LOLA
+{
+    font-size: 20px;
+    font-family: verdana;
+    background-color: lightblue;
+    padding: 5px;
+}
+#essay
+{
+    background-color: lightblue;
+}
+#lola2
+{
+    width: 60%;
+    margin: auto;
+}
